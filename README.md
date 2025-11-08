@@ -1,2 +1,4 @@
 # my-first-repo-hayyan
-this is my first github repository &lt;br> author: M.hayyan
+this is my first github repository 
+</br>
+author: M.hayyan
